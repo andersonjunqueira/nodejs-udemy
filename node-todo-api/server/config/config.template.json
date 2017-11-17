@@ -1,0 +1,12 @@
+{
+    "env1": {
+        "PORT": 1234,
+        "MONGODB_URI": "Mongo URL",
+        "JWT_SECRET": "abc123"
+    }, 
+    "env2": {
+        "PORT": 3000,
+        "MONGODB_URI": "Mongo URL",
+        "JWT_SECRET": "abc123"
+    }
+}
